@@ -2,6 +2,7 @@ package com.juniorsrr.web;
 line1
 line2
 line3
+line4
 public class Login {
 	private String username;
 	private String password;
