@@ -8,7 +8,9 @@ public class Login {
 	private String username;
 	private String password;
 	
-	public Login(){}
+	public Login(){
+		this.username = "Default name";
+	}
 	
 	public String getUsername() {
 		return username;
