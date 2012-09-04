@@ -3,6 +3,7 @@ line1
 line2
 line3
 line4
+line7
 public class Login {
 	private String username;
 	private String password;
